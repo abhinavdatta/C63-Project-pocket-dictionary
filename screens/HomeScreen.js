@@ -76,6 +76,11 @@ export default class HomeScreen extends Component{
          <h4> click on the link for "a" words other words are not written here but you can search other words too <a href = "https://drive.google.com/file/d/1X0mDLBhNzIcRmlAvlaf6yyXCg6OOi3TO/view?usp=sharing">click here </a></h4>
          
            <h6>other files in the open source of dictionary is hidden</h6>
+
+
+        <h6> please check and follow my<a href ="https://github.com/abhinavdatta"> github page.</a></h6>
+          
+        <h6>if you are using my open source as your project please mention my name in your project thankyou</h6>
          
         <View style={styles.inputBoxContainer}>{
          
